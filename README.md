@@ -14,7 +14,6 @@ Each project demonstrates a key concept such as:
 - ATM Bank System
 - Guess the Number Game
 - Password Login System
-- Loan Application Simulation
 
 ## 🧑‍💻 Author
 **Arda Bulut**  
